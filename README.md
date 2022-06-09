@@ -1,10 +1,9 @@
 
-<!-- <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=mawindavic&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000"> <img height="50%" width="auto" src ="https://github-readme-streak-stats.herokuapp.com?user=mawindavic&theme=darcula&hide_border=true&background=FFFFFF00">
-
-<img align="center" height="50%" width="350" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=mawindavic&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php">
+ <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=mawindavic&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000"> <img height="50%" width="auto" src ="https://github-readme-streak-stats.herokuapp.com?user=mawindavic&theme=darcula&hide_border=true&background=FFFFFF00">
 
 
 
+<!--
 
 # 💻Tech Stack
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)

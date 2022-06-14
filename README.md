@@ -4,7 +4,7 @@
 ---
 ![](https://github-readme-stats.vercel.app/api?username=mawindavic&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mawindavic&show_icons=true&theme=dracula&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mawindavic&show_icons=true&theme=dracula&layout=compact&hide_border=true)
+<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mawindavic&show_icons=true&theme=dracula&layout=compact&hide_border=true) -->
 [![](https://github-readme-stats.vercel.app/api/wakatime?username=mawindavic&show_icons=true&theme=dracula&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 ---
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight) 

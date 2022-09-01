@@ -5,6 +5,8 @@
 ![](https://github-readme-stats.vercel.app/api?username=mawindavic&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mawindavic&show_icons=true&theme=dracula&hide_border=true)
 
+<img align="center" height="50%" width="350" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=mawindavic&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php">
+
 ---
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight) 
 ---

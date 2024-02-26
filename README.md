@@ -2,7 +2,6 @@
 ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) 
 ---
-![](https://github-readme-streak-stats.herokuapp.com/?user=mawindavic&show_icons=true&theme=dracula&hide_border=true)
 ---
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight) 
 ---
